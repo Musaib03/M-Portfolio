@@ -1,9 +1,23 @@
 # Portfolio Website
 
 Welcome to my portfolio website! This is a personal website to showcase my projects, achievements, testimonials, and more. It is designed using **HTML**, **CSS**, and **JavaScript** for a responsive and user-friendly experience.
-https://musaib03.github.io/M-Portfolio/
 
 ---
+
+## Images Preview
+
+Here are some previews of the portfolio:
+
+<div align="center">
+  <img src="screen1.jpg" alt="Image 1" width="300" style="border-radius: 10px; margin-right: 10px;">
+  <img src="screen2.jpg" alt="Image 2" width="300" style="border-radius: 10px;">
+</div>
+
+---
+
+## Visit the Website
+
+[Have a look To my website](https://musaib03.github.io/M-Portfolio/)
 
 ## 🛠️ Features
 
